@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.example.springorder.config.BeanOrderConfigurationA,\
+  com.example.springorder.config.BeanOrderConfigurationB,\
+  com.example.springorder.other.BeanOrderConfigurationC
